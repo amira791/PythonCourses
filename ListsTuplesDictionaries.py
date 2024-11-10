@@ -231,7 +231,7 @@ print(numbers)
 # Task 07: Check for Duplicate Items in a List
 print('\n# Task 07 : Check for Duplicate Items in a List')
 # طلب إدخال طول القائمة
-Listlength =  int(Listlengthinput('\n*= Enter the length of the list : '))
+Listlength =  int(input('\n*= Enter the length of the list : '))
 
 
 
