@@ -228,7 +228,7 @@ print(numbers)
 # Store them in a list.
 # Check if the list contains any duplicates and print the result.
 #Solution 01
-# Task 07: Check for Duplicate Items in a List
+
 print('\n# Task 07 : Check for Duplicate Items in a List')
 # طلب إدخال طول القائمة
 Listlength =  int(input('\n*= Enter the length of the list : '))
@@ -360,7 +360,6 @@ print("Smallest number:", smallest)
 
 text = input("Enter a string: ")
 char = input("Enter the character to count: ")
-
 count = text.count(char)
 
 print(f"The character '{char}' appears {count} times in the string.")
