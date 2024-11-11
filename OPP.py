@@ -52,6 +52,7 @@ class Student(Person):
 # Animal Sounds Polymorphism:
 # Create a base class Animal and subclasses Dog and Cat that override the make_sound method.
 # Write a function that takes an animal and calls its make_sound method.
+
 class Animal:
     def make_sound(self):
         pass
